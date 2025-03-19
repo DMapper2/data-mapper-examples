@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "data-mapper-examples",
+      "path": "./data-mapper-examples"
+    }
+  ],
+  "settings": {
+    "terminal.integrated.env.osx": {
+      "PATH": "/Users/daniellecogburn/.azurelogicapps/dependencies/DotNetSDK:${env:PATH}"
+    },
+    "omnisharp.dotNetCliPaths": [
+      "/Users/daniellecogburn/.azurelogicapps/dependencies/DotNetSDK"
+    ]
+  }
+}
