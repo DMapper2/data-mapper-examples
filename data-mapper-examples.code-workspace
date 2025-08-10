@@ -10,7 +10,10 @@
       "PATH": "/Users/daniellecogburn/.azurelogicapps/dependencies/DotNetSDK:${env:PATH}"
     },
     "omnisharp.dotNetCliPaths": [
-      "/Users/daniellecogburn/.azurelogicapps/dependencies/DotNetSDK"
-    ]
+      "C:\\Users\\DataM\\.azurelogicapps\\dependencies\\DotNetSDK"
+    ],
+    "terminal.integrated.env.windows": {
+      "PATH": "C:\\Users\\DataM\\.azurelogicapps\\dependencies\\DotNetSDK;${env:PATH}"
+    }
   }
 }
